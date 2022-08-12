@@ -1,6 +1,6 @@
 ### Hi there, I'm Dimitar 👋 
 
-I'm a french student trying to learn programming by myself before school starts to teach me. My Github will show my projects from beginner to, one day, advanced !
+I'm a french engineer student trying to learn web development and programming by myself. 
 I also enjoy UI/UX, wireframing and designing.
 
 
