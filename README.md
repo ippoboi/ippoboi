@@ -1,6 +1,6 @@
 ### Hi there, I'm Dimitar 👋 
 
-I'm a french engineer student trying to learn web development and programming by myself. 
+I'm a french engineering student trying to learn web development and programming by myself. 
 I also enjoy UI/UX, wireframing and designing.
 
 
