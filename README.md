@@ -1,26 +1,30 @@
-### Hi there, I'm Dimitar 👋 
+# Hi, I'm Dimitar 👋
 
-I plan, design & develop mobile apps, landing/multi pages websites & web apps.
+I'm a Design Engineer who bridges the gap between design and development. I believe in creating solutions that are both beautiful and functional.
 
+## What I Do
 
-### Connect with me:
+I design and code websites, mobile apps, and web applications with a **50/50 focus** on both design and development. My approach is user-oriented, data-driven, and grounded in engineering thinking for optimal usability.
 
-[<img align="left" alt="Dimitar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dimitar-ing/)
+### 🎨 Design
+- UI/UX Design with **Figma**
+- User research and market analysis
+- Creating intuitive, problem-solving interfaces
 
-<br />
+### 💻 Development
+- **Frontend:** React, Next.js, React Native with Expo
+- **Backend:** Node.js, NestJS, Python
+- Building scalable, performant applications
 
-### Languages and Tools:
+## My Focus
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+I'm passionate about building mobile apps that solve real problems. Every project starts with understanding the user's needs and is backed by data to ensure we're building the right solution.
 
-<br />
-<br />
+## Let's Connect
+
+I'm open to freelance opportunities and interesting collaborations. Feel free to reach out if you have a project that needs both design thinking and technical execution.
 
 ---
+
+📫 How to reach me: [webdev.dimitar@gmail.com](mailto:webdev.dimitar@gmail.com)  
+💼 Portfolio: Soon
