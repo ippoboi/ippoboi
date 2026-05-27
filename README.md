@@ -26,5 +26,5 @@ I'm open to freelance opportunities and interesting collaborations. Feel free to
 
 ---
 
-📫 How to reach me: [webdev.dimitar@gmail.com](mailto:webdev.dimitar@gmail.com)  
-💼 Portfolio: Soon
+📫 How to reach me: [dimitar@amystlabs.com](mailto:dimitar@amystlabs.com)  
+💼 Portfolio: [Amyst Labs](https://www.amystlabs.com)
